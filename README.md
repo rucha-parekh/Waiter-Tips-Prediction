@@ -32,7 +32,7 @@ The data is split into training data and testing data. Different models are comp
 The m!odel is deployed using flask
 
 ![Screenshot 2024-11-19 162312](https://github.com/user-attachments/assets/c037e90c-9df6-4152-986b-b3efc885e02d)
-
 Udpates in the terminal
+
 ![Screenshot 2024-11-19 162326](https://github.com/user-attachments/assets/386118c0-6a40-40b4-a2b9-4c9866223cba)
 

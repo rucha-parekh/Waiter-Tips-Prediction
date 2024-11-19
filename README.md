@@ -29,7 +29,7 @@ The following EDA steps are taken: </br>
 The data is split into training data and testing data. Different models are compared according to their men sqaured error and the SVR model is found to have the least MSE.
 
 ## **Deployment**
-The m!odel is deployed using flask
+The model is deployed using flask
 
 ![Screenshot 2024-11-19 162312](https://github.com/user-attachments/assets/c037e90c-9df6-4152-986b-b3efc885e02d)
 Udpates in the terminal

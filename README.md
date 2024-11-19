@@ -1,6 +1,6 @@
 # Waiter-Tips-Prediction
 
-**Project Overview**
+**Project Overview** /n
 This is a Machine Learning project that leverages the Support Vector Regressor (SVR) model to predict the tip a waiter might receive. The prediction is based on various influential factors such as the day of the week, time of the day, the gender of the customer, the total bill amount, the number of people in the group, and whether the customers are smokers or not. By analyzing these parameters, the model aims to provide accurate insights into tipping patterns, helping to understand the relationship between customer behavior and tipping tendencies.
 
 **Dataset Description**
